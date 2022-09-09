@@ -1,4 +1,4 @@
-# Reading and Note-taking strategies
+## Reading and Note-taking strategies
 
 
 ## Hello, I'm Micah.
