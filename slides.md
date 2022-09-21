@@ -16,14 +16,26 @@ micah.saxton@tufts.edu
 * Table of contents - What does the table of contents tell you about the structure of the book?
 * Index - How extensively are your the people, places, or ideas, from your research topic covered in the book?
 
-### Strategic reading
+### Selective reading
 * Read the introduction and conclusion first.
 * Scan the index to find and read the pages/chapters relevant to your research topic.
 
-### para-reading
+### Para-reading
 * Find 2-3 book reviews of the book in academic journals.
 * What can you learn from the reviewer's evaluation of the book?
 * What can you learn about the book's place in the wider scholarly conversation?
+
+### In-depth reading
+* Interrogate the text:
+    * What claim is the author making?
+    * What arguments are made to advance the claim?
+    * What evidence is offered in support of the arguments?
+
+* Use the BEAM model to think through the author's sources
+    * Background sources
+    * Exhibit sources
+    * Argument sources
+    * Method sources
 
 
 ## Note-taking strategies
