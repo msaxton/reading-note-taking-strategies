@@ -54,7 +54,7 @@ Clearly distinguish between quotes, paraphrases, summaries, and your own thought
 
 "A thoughtful, judicious selection of material from your reading should be followed by a thoughtful, judicious selection from your own notes when the time comes to write" (Brundage, Going to the Source, 121).
 
-Organize research notes by topic or theme rather than buy source.
+Organize research notes by topic or theme rather than by source.
 
 Research notes should be atomized to allow for multiple organizational schemes.
 
